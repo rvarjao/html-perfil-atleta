@@ -1,0 +1,80 @@
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BODY */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* CONTAINER */
+#container {
+    width: 90%;
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+/* TOPO */
+#topo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* CARD */
+.card {
+    background-color: white;
+
+    /* COMPLETAR */
+    padding: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 12px;
+    background-color: cadetblue;
+}
+
+/* PERFIL */
+#perfil {
+    display: flex;
+
+    /* COMPLETAR */
+    gap: ___;
+    align-items: ___;
+}
+
+/* FOTO */
+#foto-atleta {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+/* NOME */
+.nome-atleta {
+    font-size: ___;
+}
+
+/* DESTAQUE */
+.destaque {
+    color: ___;
+    font-weight: ___;
+}
+
+/* BOTÃO */
+.botao {
+    display: inline-block;
+    background-color: ___;
+    color: ___;
+    padding: ___;
+    text-decoration: none;
+    border-radius: ___;
+}
+
+/* HABILIDADES */
+.habilidade {
+    background-color: ___;
+    padding: ___;
+    margin-bottom: ___;
+}
