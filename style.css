@@ -7,8 +7,8 @@
 
 /* BODY */
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: #f4f4f4;
+    font-family: _____;
+    background-color: ______;
 }
 
 /* CONTAINER */
@@ -30,9 +30,9 @@ body {
 
     /* COMPLETAR */
     padding: 2rem;
-    margin-bottom: 1rem;
-    border-radius: 12px;
-    background-color: cadetblue;
+    margin-bottom: ______;
+    border-radius: ______;
+    background-color: _____;
 }
 
 /* PERFIL */
@@ -46,9 +46,9 @@ body {
 
 /* FOTO */
 #foto-atleta {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
+    width: ____;
+    height: ____;
+    border-radius: ____;
 }
 
 /* NOME */
